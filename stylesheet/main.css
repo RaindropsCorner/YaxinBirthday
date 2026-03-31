@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic);
-@import url(https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap);
+/*@import url(https://fonts.googleapis.com/css?family=Lato:300italic);*/
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap);
 html,
 body {
     width: 100%;
@@ -196,7 +196,7 @@ body {
 }
 .text {
     color: #8b6a60;
-    font-family: "ZCOOL XiaoWei", sans-serif;
+    font-family:  "Microsoft YaHei", "微软雅黑", "Noto Sans SC",, sans-serif;
     font-weight: 300;
     font-style: normal;
     text-align: center;
