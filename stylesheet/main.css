@@ -354,6 +354,6 @@ body {
 
 .popImage img{
     display: block;
-    width: calc(60vw);
+    width: 45%;
     max-width: 260px;
 }
