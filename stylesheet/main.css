@@ -353,6 +353,7 @@ body {
 }
 
 .popImage img{
-    /*display: none;*/
+    display: block;
     width: calc(60vw);
+    max-width: 260px;
 }
