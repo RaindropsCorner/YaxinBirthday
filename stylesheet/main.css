@@ -325,7 +325,7 @@ body {
 
 .gift {
     z-index: 2;
-    width: 65%;
+    width: 80%;
     max-width: 400px;
     position: absolute;
     left: 50%;
@@ -340,6 +340,8 @@ body {
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+    width: 65%;
+    max-width: 260px;
 }
 
 .popImage .blur {
@@ -361,6 +363,5 @@ body {
 
 .popImage img{
     display: block;
-    width: 40%;
-    max-width: 200px;
+    width: 100%;
 }
